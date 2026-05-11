@@ -26,14 +26,4 @@ This desktop application allows users to manage employee records with a clean da
 - SQLite3
 - ttk Widgets
 
----
 
-## 📂 Project Structure
-
-```bash
-Employee-Management-System/
-│
-├── main.py
-├── employees.db
-├── README.md
-└── screenshots/
